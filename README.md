@@ -34,4 +34,7 @@
 <a href="http://www.github.com/Diogo2b">
     <img src="https://img.shields.io/badge/Code%20Quality-A-brightgreen?style=flat-square&logo=codefactor&logoColor=white" alt="Code Quality A" style="width:100%; max-width:600px;"/>
 </a>
+    <h2>📈 Top Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo2b&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
 </div>
