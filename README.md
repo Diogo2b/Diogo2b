@@ -17,15 +17,15 @@
     <h2>🛠️ Technologies & Tools</h2>
     <p>
         <!-- Badges das tecnologias -->
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="width: 8em; height: 4em;"/>
-        <img src="https://img.shields.io/badge/Astro.js-FF5F56?style=flat-square&logo=astro&logoColor=white" alt="Astro.js" style="width: 8em; height: 4em;"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Astro.js-FF5F56?style=flat-square&logo=astro&logoColor=white" alt="Astro.js" />
     </p>
     <!-- GitHub Stats -->
     <h2>📈 GitHub Stats</h2>
