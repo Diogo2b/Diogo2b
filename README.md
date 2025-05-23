@@ -29,9 +29,14 @@
     </p>
     <!-- GitHub Stats -->
     <h2>📈 GitHub Stats</h2>
-    ![GitHub Streak](https://streak-stats.demolab.com?user=Diogo2b&theme=tokyonight&hide_border=true)
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo2b&theme=tokyonight" alt="GitHub Streak" style="width:100%; max-width:600px;"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Diogo2b&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    style="width:100%; max-width:600px;"
+  />
+</p>
+/>
     <h2>🌟 Code Quality Score</h2>
 <a href="http://www.github.com/Diogo2b">
     <img src="https://img.shields.io/badge/Code%20Quality-A-brightgreen?style=flat-square&logo=codefactor&logoColor=white" alt="Code Quality A" style="width:100%; max-width:600px;"/>
