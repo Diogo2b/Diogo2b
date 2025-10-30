@@ -78,7 +78,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo2b&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="300px"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=Diogo2b&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300px"/>
+      <img src="https://streak-stats.demolab.com?user=Diogo2b&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400px"/>
     </td>
     <td align="center" valign="top">
       <p><strong>🌟 Code Quality</strong></p>
