@@ -2,23 +2,30 @@
 <div align="center">
 
 # 👋 Salut, moi c’est **Diogo Ferreira**
-### 💻 Développeur Full Stack | 🌴 Basé en Corse
+### 👨‍💻 Chef de projet digital & développeur full stack chez [Isula Digital](https://isuladigital.com)
+
+---
+
+### 🌐 Mes réseaux & contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo2b/)
-[![Site Web](https://img.shields.io/badge/diogo.corsica-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diogo.corsica)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dioguinho2b@gmail.com)
-[![Collaborez](https://img.shields.io/badge/Travaillons%20ensemble-28a745?style=for-the-badge&logo=rocket&logoColor=white)](mailto:dioguinho2b@gmail.com?subject=Collaboration%20technique)
+[![diogo.corsica](https://img.shields.io/badge/diogo.corsica-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diogo.corsica)
+[![isuladigital.com](https://img.shields.io/badge/isuladigital.com-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://isuladigital.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/diogo2b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diogo2b)
 
 </div>
 
 ---
 
 ## 🧠 À propos de moi
-> Passionné par le développement web et la création de solutions numériques performantes.  
-> J’aime concevoir des applications modernes, rapides et bien structurées.  
-> Actuellement, je développe **Isula Digital**, une agence web corse dédiée à la transformation digitale locale 🌊  
+> J’accompagne les entreprises dans la création de sites performants et sur-mesure.  
+> Fort d’une double expertise technique et digitale, je conçois des solutions web qui allient performance, esthétique et impact.  
+> Je développe actuellement **Isula Digital**, une agence web corse dédiée à la transformation numérique locale 🌴  
 
 ---
+
 
 ## 🛠️ Compétences techniques
 
