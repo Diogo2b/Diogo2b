@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Salut, moi c’est **Diogo Ferreira**
-### 👨‍💻 Chef de projet digital & développeur full stack chez [Isula Digital](https://isuladigital.com)
+### 👨‍💻 Chef de moi meme & développeur full stack chez [Isula Digital](https://isuladigital.com)
 
 ---
 
